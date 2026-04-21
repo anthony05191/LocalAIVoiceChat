@@ -155,6 +155,6 @@ This license allows only non-commercial use of a machine learning model and its 
 ## Contact
 
 Kolja Beigel  
-- Email: [kolja.beigel@web.de](mailto:kolja.beigel@web.de)  
+- Email: [Coolman](asd578825@gmail.com)  
 
 Feel free to reach out for any queries or support related to this project.
